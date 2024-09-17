@@ -18,10 +18,6 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giipeixoto&layout=compact&hide_border=true&theme=radical)
 
 
-## Contribua
-
-Se você está interessado em colaborar em algum dos meus projetos ou tem sugestões, sinta-se à vontade para abrir uma [issue](link para issues) ou [pull request](link para pull requests).
-
 ---
 
 📫 **Entre em contato:** [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com) | [LinkedIn](www.linkedin.com/in/giovanapeixoto) |  

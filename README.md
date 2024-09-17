@@ -25,7 +25,10 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giipeixoto&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giipeixoto&layout=compact&hide_border=true&theme=radical)
+
 
 ## Contribua
 

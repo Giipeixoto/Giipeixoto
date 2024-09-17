@@ -11,18 +11,6 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 - 💬 Sinta-se à vontade para me perguntar sobre desenvolvimento de software, infraestrutura de redes ou formatação de máquinas.
 - 📫 Entre em contato comigo pelo email: [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com).
 
-## Projetos Recentes
-
-- **[Nome do Projeto 1](link do projeto)**: Breve descrição do projeto.
-- **[Nome do Projeto 2](link do projeto)**: Breve descrição do projeto.
-
-## Tecnologias e Ferramentas
-
-- **Linguagens de Programação**: [Liste as linguagens que você conhece, por exemplo, Python, JavaScript]
-- **Frameworks e Bibliotecas**: [Liste frameworks e bibliotecas que você usa, por exemplo, React, Node.js]
-- **Infraestrutura de Redes**: [Descreva suas habilidades, por exemplo, configuração de redes, segurança, etc.]
-- **Ferramentas**: [Liste ferramentas que você utiliza, por exemplo, Docker, Git]
-
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giipeixoto&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)

@@ -20,6 +20,6 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 
 ---
 
-📫 **Entre em contato:** [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com) | [LinkedIn](www.linkedin.com/in/giovanapeixoto) |  
+📫 **Entre em contato:** [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com) | [LinkedIn] www.linkedin.com/in/giovanapeixoto |  
 
 Obrigado por visitar meu perfil!

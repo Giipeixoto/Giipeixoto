@@ -8,7 +8,6 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 
 - 🌱 Atualmente, estou expandindo meus conhecimentos em redes e desenvolvimento de software.
 - 🚀 Tenho experiência em configuração, recuperação e teste de switches.
-- 💬 Sinta-se à vontade para me perguntar sobre desenvolvimento de software, infraestrutura de redes ou formatação de máquinas.
 - 📫 Entre em contato comigo pelo email: [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com).
 
 ## Estatísticas do GitHub

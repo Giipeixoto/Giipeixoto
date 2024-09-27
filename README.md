@@ -6,10 +6,10 @@ Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo 
 
 ## O que eu faço
 
-- 🌱 Atualmente, estou expandindo meus conhecimentos em redes e desenvolvimento de software.
-- 🚀 Tenho experiência em configuração, recuperação e teste de switches.
-- 📫 Entre em contato comigo pelo email: [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com).
-
+🌱 Exploradora da Tecnologia: Estou expandindo constantemente meus conhecimentos em redes e desenvolvimento de software, buscando sempre a interseção entre essas áreas.
+🚀 Aprendiz em Infraestrutura: Sou uma aprendiz entusiasmada com a configuração e testes de distribuição de rede em switches. Estou desenvolvendo habilidades práticas que me ajudam a entender melhor como as redes se comunicam e funcionam.
+🎨 Entusiasta do Front-End: Tenho uma paixão especial pelo desenvolvimento front-end, onde posso dar vida às ideias por meio de interfaces envolventes. Estou constantemente aprimorando minhas habilidades em HTML e CSS, dominando a arte da estilização e criando experiências visuais impactantes e responsivas.
+📫 Vamos nos Conectar: Entre em contato comigo pelo email: peixotogiovana221203@gmail.com.
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giipeixoto&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)

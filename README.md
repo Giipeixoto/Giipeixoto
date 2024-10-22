@@ -1,7 +1,5 @@
 # Olá! Eu sou Giovana Peixoto
 
-## Sobre Mim
-
 Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo desenvolvimento de software. Embora atualmente trabalhe na área de infraestrutura de redes, onde tenho uma boa familiaridade, também sou entusiasta em formatação e manutenção de máquinas. Adoro aprender coisas novas e me desafiar em diferentes áreas da tecnologia.
 
 ## O que eu faço

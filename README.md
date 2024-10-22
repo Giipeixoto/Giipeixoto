@@ -1,4 +1,4 @@
-# Olá! Eu sou Giovana Peixoto 👋
+# Olá! Eu sou Giovana Peixoto
 
 ## Sobre Mim
 

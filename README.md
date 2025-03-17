@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Giovana Peixoto  
 
-Sou estudante de **Ciência da Computação**, com 20 anos, apaixonada por tecnologia e pelo poder que a informação pode gerar. Atualmente, trabalho com **Power BI, SQL e bancos de dados**, desenvolvendo soluções em **Business Intelligence** que transformam dados em informações valiosas para o negócio.  
+Sou estudante de **Ciência da Computação**, com 21 anos, apaixonada por tecnologia e pelo poder que a informação pode gerar. Atualmente, trabalho com **Power BI, SQL e bancos de dados**, desenvolvendo soluções em **Business Intelligence** que transformam dados em informações valiosas para o negócio.  
 
 Apesar de atuar na área de **dados e BI**, também tenho uma trajetória envolvendo **infraestrutura de redes** e uma grande afinidade com o universo de **desenvolvimento de software**, especialmente **Front-End**, onde gosto de criar interfaces bonitas, funcionais e responsivas.  
 

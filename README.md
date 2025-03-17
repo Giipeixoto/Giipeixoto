@@ -1,26 +1,45 @@
-# Olá! Eu sou Giovana Peixoto
+# 👋 Olá! Eu sou Giovana Peixoto  
 
-Sou estudante de Ciência da Computação com 20 anos e uma grande paixão pelo desenvolvimento de software. Embora atualmente trabalhe na área de infraestrutura de redes, onde tenho uma boa familiaridade, também sou entusiasta em formatação e manutenção de máquinas. Adoro aprender coisas novas e me desafiar em diferentes áreas da tecnologia.
+Sou estudante de **Ciência da Computação**, com 20 anos, apaixonada por tecnologia e pelo poder que a informação pode gerar. Atualmente, trabalho com **Power BI, SQL e bancos de dados**, desenvolvendo soluções em **Business Intelligence** que transformam dados em informações valiosas para o negócio.  
 
-## O que eu faço
-
-🌱 Exploradora da Tecnologia: Estou expandindo constantemente meus conhecimentos em redes e desenvolvimento de software, buscando sempre a interseção entre essas áreas.
-
-🚀 Aprendiz em Infraestrutura: Sou uma aprendiz entusiasmada com a configuração e testes de distribuição de rede em switches. Estou desenvolvendo habilidades práticas que me ajudam a entender melhor como as redes se comunicam e funcionam.
-
-🎨 Entusiasta do Front-End: Tenho uma paixão especial pelo desenvolvimento front-end, onde posso dar vida às ideias por meio de interfaces envolventes. Estou constantemente aprimorando minhas habilidades em HTML e CSS, dominando a arte da estilização e criando experiências visuais impactantes e responsivas.
-
-📫 Vamos nos Conectar: Entre em contato comigo pelo email: peixotogiovana221203@gmail.com.
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giipeixoto&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giipeixoto&layout=compact&hide_border=true&theme=radical)
-
+Apesar de atuar na área de **dados e BI**, também tenho uma trajetória envolvendo **infraestrutura de redes** e uma grande afinidade com o universo de **desenvolvimento de software**, especialmente **Front-End**, onde gosto de criar interfaces bonitas, funcionais e responsivas.  
 
 ---
 
-📫 **Entre em contato:** [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com) | [LinkedIn] www.linkedin.com/in/giovanapeixoto |  
+## 💻 Sobre mim  
 
-Obrigado por visitar meu perfil!
+✨ **Analista de Dados em formação**: Atuo diariamente com **Power BI, SQL, Banco de Dados (SQL Server, MySQL)** e **modelagem de dados**, gerando dashboards e análises estratégicas.  
+
+🔧 **Experiência em Infraestrutura**: Já trabalhei com **configuração de redes, switches, VLAN, cabeamento estruturado** e **manutenção de máquinas**, o que me trouxe uma visão prática de tecnologia.  
+
+🎨 **Apaixonada por Front-End**: Tenho um carinho especial pelo desenvolvimento de **interfaces web**, utilizando **HTML, CSS** e **JavaScript**, sempre buscando unir estética e funcionalidade.  
+
+🚀 **Aprendizado Contínuo**: Sou movida por desafios e adoro aprender coisas novas! Sempre buscando evoluir em áreas como **dados, desenvolvimento e infraestrutura**.  
+
+---
+
+## 🛠️ Tecnologias e Habilidades  
+
+- **Power BI | SQL | Banco de Dados (SQL Server, MySQL)**  
+- **HTML | CSS | JavaScript**  
+- **Infraestrutura de Redes | TCP/IP | VLAN | Manutenção de Equipamentos**  
+- **Git | GitHub | Versionamento de Código**  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giipeixoto&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)  
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giipeixoto&layout=compact&hide_border=true&theme=radical)  
+
+---
+
+## 📫 Vamos nos conectar!  
+
+- Email: [peixotogiovana221203@gmail.com](mailto:peixotogiovana221203@gmail.com)  
+- LinkedIn: [linkedin.com/in/giovanapeixoto](https://www.linkedin.com/in/giovanapeixoto)  
+
+---
+
+⭐ **Obrigada por visitar meu perfil!** Sempre aberta a novos aprendizados, conexões e oportunidades!  
